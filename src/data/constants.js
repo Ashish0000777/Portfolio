@@ -14,7 +14,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Ashish0000777",
   resume:
-    "https://drive.google.com/file/d/1Y9YX4M-V1_yC_zzoXF4AmHD6ima0JtDL/view?usp=sharing",
+    "https://drive.google.com/file/d/1zjs9l3g9ExXZVLyK1ED00PODH6hmqY6v/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/ashish-khadase-912ba1238/",
   twitter: "https://x.com/Ashishkhadse_7",
   insta: "https://www.instagram.com/ashish_khadse7/",
