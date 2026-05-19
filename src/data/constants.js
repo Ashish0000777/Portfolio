@@ -127,23 +127,6 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: enthusiaLogo,
-    role: "Jr. Frontend Developer",
-    company: "Enthusia Softech Pvt. Ltd.",
-    date: "June 2023 - March 2023",
-    desc: "Worked on SaaS-based 'Vulnerability Management Platform' web application as a part of a six-person team.Designed and Implemented web application along with 3rd-party software integrations, Automated the reporting process by implementing a feature to generate stunning PDF reports with a user-friendly interface. Worked with UI/UX design teams to improve existing applications and increase conversation rates by 20%. Built, managed, and facilitated the sharing of custom reports through a simple drag-and-drop mechanism",
-    skills: [
-      "HTML5",
-      "CSS",
-      "Javascript",
-      "ReactJS",
-      "BootStrap",
-      "NodeJs",
-      "MongoDB",
-    ],
-  },
-  {
-    id: 0,
     img: "https://weavolve.com/wp-content/uploads/2019/12/weavolve.png",
     role: "Frontend Developer Intern",
     company: "Weavolve Solutions",
@@ -157,6 +140,8 @@ export const experiences = [
       "HTML",
       "CSS",
       "JavaScript",
+      "NodeJs",
+      "MongoDB",
     ],
   },
 
