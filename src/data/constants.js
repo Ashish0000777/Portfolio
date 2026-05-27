@@ -130,7 +130,7 @@ export const experiences = [
     img: "https://weavolve.com/wp-content/uploads/2019/12/weavolve.png",
     role: "Frontend Developer Intern",
     company: "Weavolve Solutions",
-    date: "Jan 2023 - May 2023",
+    date: "Nov 2025 - Apr 2026",
     desc: "Developed and maintained responsive web applications using ReactJS and related technologies. CollabWorked with RESTful APIs to integrate front-end components with back-end services. orated with the design team to implement user-friendly interfaces. Produced multiple visual elements of web applications by translating UI/UX design wireframes into code, producing high quality markups using HTML5 and CSS3. Assisted in maintaining active conversation with 3 clients to ensure the client sites developemet their needs, achieving over 95% customer satisfaction.",
     skills: [
       "ReactJS",
