@@ -127,7 +127,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://www.aksharaminfotech.com/wp-content/uploads/2026/01/Aksharam-logo-_left_alingn_big_logo_option.png",
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQHCcEFZpjEl5w/company-logo_200_200/company-logo_200_200/0/1725528509850/aksharam_infotech_logo?e=2147483647&v=beta&t=oO91v-lOnXNQkqUpHQ25dRhyZBdSw59hClNZViFOLVU",
     role: "Jr. Frontend Developer",
     company: "Aksharam Infotech",
     date: " May 2025 - Apr 2026",
@@ -146,7 +146,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://www.aksharaminfotech.com/wp-content/uploads/2026/01/Aksharam-logo-_left_alingn_big_logo_option.png",
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQHCcEFZpjEl5w/company-logo_200_200/company-logo_200_200/0/1725528509850/aksharam_infotech_logo?e=2147483647&v=beta&t=oO91v-lOnXNQkqUpHQ25dRhyZBdSw59hClNZViFOLVU",
     role: "Frontend Developer Intern",
     company: "Aksharam Infotech",
     date: "Nov 2024 - Apr 2025",
