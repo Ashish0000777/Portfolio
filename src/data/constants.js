@@ -127,9 +127,9 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://dlorzete5rxda.cloudfront.net/front/images/weavolve.png",
+    img: "https://www.aksharaminfotech.com/wp-content/uploads/2026/01/Aksharam-logo-_left_alingn_big_logo_option.png",
     role: "Jr. Frontend Developer",
-    company: "Weavolve Solutions",
+    company: "Aksharam Infotech",
     date: " May 2025 - Apr 2026",
     desc: "Worked on SaaS-based ’Vulnerability Management Platform’ web application as a part of a six-person team, Designed and Implemented web application along with 3rd-party software integrations, Automated the reporting process by implementing a feature to generate stunning PDF reports with a user-friendly interface.",
     skills: [
@@ -146,9 +146,9 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://dlorzete5rxda.cloudfront.net/front/images/weavolve.png",
+    img: "https://www.aksharaminfotech.com/wp-content/uploads/2026/01/Aksharam-logo-_left_alingn_big_logo_option.png",
     role: "Frontend Developer Intern",
-    company: "Weavolve Solutions",
+    company: "Aksharam Infotech",
     date: "Nov 2024 - Apr 2025",
     desc: "Developed and maintained responsive web applications using ReactJS and related technologies. CollabWorked with RESTful APIs to integrate front-end components with back-end services. orated with the design team to implement user-friendly interfaces. Produced multiple visual elements of web applications by translating UI/UX design wireframes into code, producing high quality markups using HTML5 and CSS3. Assisted in maintaining active conversation with 3 clients to ensure the client sites developemet their needs, achieving over 95% customer satisfaction.",
     skills: [
